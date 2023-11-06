@@ -1,5 +1,4 @@
 variable "region" {
-  //region
   description = "AWS region."
 }
 
