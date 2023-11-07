@@ -1,3 +1,3 @@
-output "rds_endpoint" {
-  value = aws_db_instance.techfood.endpoint
-}
+//output "rds_endpoint" {
+//  value = aws_db_instance.techfood.endpoint
+//}
